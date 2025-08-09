@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fabreezytutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf5eb2d1c96b5bd6631bbdca86c02ddf27a152d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543d0fdc31137ec8e3e82ac8cf22a1ac4307ce0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("fabreezytutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fabreezytutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
